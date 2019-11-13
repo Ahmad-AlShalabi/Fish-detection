@@ -32,14 +32,10 @@ it allows rapid progress when modelling related problem.
 
 
 
+## References
 
-
-
-
-
-
-
-[Dataset](https://wiki.qut.edu.au/display/cyphy/Fish+Dataset)
+Used dataset for positive images [Dataset](https://wiki.qut.edu.au/display/cyphy/Fish+Dataset)
+RseNet - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 
 
