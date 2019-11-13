@@ -8,7 +8,7 @@ Fish detection is a binary(one class) classification problem, it needs to **posi
 
 - for fish images (the positive one) there are a very limited number of datasets. some of it for fish recognition for a limited number of fishes and one of them has images only underwater inside power generation unite. 
 the data set that I have chosen include images for a variety types of fishes and under different environments(underwater, outside water, fixed background).
-![alt text](file:///C:/Users/Ahmad%20Al%20Shalabi/Pictures/dataset.PNG)
+![alt text](C:/Users/Ahmad%20Al%20Shalabi/Pictures/dataset.PNG)
 It has around **4000 images only**, and all images in one mode (head left, tail right), 
 this number and kinds of images is very small to train CNN model. because the less data you have, the less chance you have of getting accurate predictions for data that your model hasn't yet seen.
 So that I decide to use **Image Augmentation**.
