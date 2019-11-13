@@ -5,7 +5,7 @@
 Data collection for CNN is the most important and difficult part of building an ML model.
 
 Fish detection is a binary(one class) classification problem, it needs to **positive(fish)** and **negative(non-fish)** dataset.
-
+![image](C:/Users/Ahmad Al Shalabi/Desktop/New folder/dataset.PNG?raw=true)
 - for fish images (the positive one) there are a very limited number of datasets. some of it for fish recognition for a limited number of fishes and one of them has images only underwater inside power generation unite. 
 the data set that I have chosen include images for a variety types of fishes and under different environments(underwater, outside water, fixed background).
 
