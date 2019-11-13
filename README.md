@@ -19,8 +19,8 @@ So that I decide to use **Image Augmentation**.
 ## Model:
 - There are a lot of choices to build CNN model.
 At this point, I relied on a ResNet Network. Why?
->The main benefit of a very deep network(normal) is that it can learn features at many different levels of abstraction but a huge barrier for using and training them is vanishing gradients.
-- Deep Residual Network modified the CNN structure ( added a "shortcut" or a "skip connection" between layers) to address the Vanishing Gradient problem and became arguably the most groundbreaking work in the computer vision/deep learning community in the last few years.
+The main benefit of a very deep network(normal) is that it can learn features at many different levels of abstraction but a huge barrier for using and training them is vanishing gradients.
+- Deep Residual Network modified the CNN structure ( added a "shortcut" or a "skip connection" between layers) to address the Vanishing Gradient problem and became >arguably the most groundbreaking work in the computer vision/deep learning community in the last few years.
 >ResNet makes it possible to train up to hundreds or even thousands of layers and still achieves compelling performance.
 This Network won the 1st place on the ILSVRC 2015 classification task. 
 
