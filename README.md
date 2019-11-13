@@ -27,6 +27,7 @@ The main benefit of a very deep network(normal) is that it can learn features at
 >ResNet makes it possible to train up to hundreds or even thousands of layers and still achieves compelling performance.
 This Network won the 1st place on the ILSVRC 2015 classification task. 
 
+![](https://github.com/Ahmad-AlShalabi/Fish-detection/blob/master/images/skip_connection.png?raw=true "Shortcut")
 - In addition, at this point, I used the **transfer learning** technique How? and Way?
 It is about reused a pre-trained model(transfer of knowledge ) as the starting point (weights) for another related model.
 it allows rapid progress when modelling related problem.
