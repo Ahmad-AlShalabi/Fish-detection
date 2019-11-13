@@ -15,7 +15,7 @@ So that I decide to use Image Augmentation. Image Augmentation amends the images
 - for negative class, I collect 4000 images, all of them are non-fish.
 
 
-- Model:
+# Model:
 There are a lot of choices to build CNN model.
 At this point, I relied on a ResNet Network. Why?
 The main benefit of a very deep network(normal) is that it can learn features at many different levels of abstraction but a huge barrier for using and training them is vanishing gradients.
