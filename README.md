@@ -16,7 +16,7 @@ So that I decide to use **Image Augmentation**.
 
 ***Image Augmentation:*** amends the images on-the-fly while training using transforms like rotation, shifting. and it is a way to avoid overfitting the data.
 
-- for negative class, I collect 4000 images, all of them are non-fish.
+- for Nom fish (negative) class, I collected 4000 images, all of them are non-fish.
 
 
 ## Model:
