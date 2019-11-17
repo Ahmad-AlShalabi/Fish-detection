@@ -1,5 +1,5 @@
 # Fish-detection
-
+Create a deep learning model to predict that an image contains a fish or not.
 ## Dataset:
 
 Data collection for CNN is the most important and difficult part of building an ML model.
