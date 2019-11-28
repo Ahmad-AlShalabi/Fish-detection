@@ -2,7 +2,7 @@
 [![Keras](https://img.shields.io/badge/tf.Keras-2.2.4-important.svg)]()
 [![Python](https://img.shields.io/badge/Python-3-red.svg)]()
 [![Numpy](https://img.shields.io/badge/Numpy-1.11.0-informational.svg)](https://pypi.org/project/numpy/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-2.0-important.svg)](https://matplotlib.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-2.0-informational.svg)](https://matplotlib.org/)
 
 # Fish-detection
 Create a deep learning model to predict that an image contains a fish or not.
